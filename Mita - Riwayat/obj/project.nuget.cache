@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xa9uztZxsXF7M4GSo764071300UYr4RzqDbuYa45g5iYAQlO1lq8p49wWUUGUCI4SmGo6GnefMe0on3lm4KmxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Raka Daneshwara\\source\\repos\\Mita - Riwayat\\Mita - Riwayat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raka Daneshwara\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\Raka Daneshwara\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Raka Daneshwara\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\Raka Daneshwara\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\Raka Daneshwara\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512",
+    "C:\\Users\\Raka Daneshwara\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
